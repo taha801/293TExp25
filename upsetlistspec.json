@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/taha801/293TExp25/master/upsetlistspec.txt",
+	"name": "upsetlist",
+	"header": 0,
+	"separator": "\t",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Protein" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 16 }
+	]
+}
